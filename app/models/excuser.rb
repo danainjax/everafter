@@ -1,0 +1,2 @@
+class Excuser < ApplicationRecord
+end
